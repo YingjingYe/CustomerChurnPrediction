@@ -1,2 +1,5 @@
 # CustomerChurnPrediction
-Predict customer churn rate in the telecommunication industry.
+
+Code base for this project: prediction.ipynb
+
+Detailed description and project report: ProjectReport.pdf
